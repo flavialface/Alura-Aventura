@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(39, 185, 180);
+    color:blue;
+    font-family: font-family: "Nerko One", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: black;
+    color:rgb(47, 58, 212);
+    font-family: "font-family: "Nerko One", cursive;", sans-serif;
+} 
