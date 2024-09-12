@@ -14,3 +14,11 @@ button{
     color:rgb(47, 58, 212);
     font-family: "font-family: "Nerko One", cursive;", sans-serif;
 } 
+
+.passo {
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
